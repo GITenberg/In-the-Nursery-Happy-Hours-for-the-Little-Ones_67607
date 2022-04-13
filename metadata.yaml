@@ -1,0 +1,31 @@
+_repo: In-the-Nursery-Happy-Hours-for-the-Little-Ones_67607
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - http://www.gutenberg.org/ebooks/author/49
+    - https://en.wikipedia.org/wiki/Anonymous_work
+description: ''
+gutenberg_issued: '2022-03-12'
+identifiers:
+  gutenberg: '67607'
+language: en
+pgterms:marc905: 20201008132854anonymous
+pgterms:marc906: '1897'
+pgterms:marc907: US
+production_note: Juliet Sutherland, Jwala Kumar Sista and the Online Distributed Proofreading
+  Team at https://www.pgdp.net
+publication_note: United States :Lothrup Publishing Company,1897.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Children''s stories'
+- GITenberg
+title: 'In the Nursery: Happy Hours for the Little Ones'
+url: http://www.gutenberg.org/ebooks/67607
